@@ -1,0 +1,14 @@
+.bold {font-weight: bold;
+font-family:'Indie Flower', cursive;}
+
+.enlarge {font-size: 24px;}
+
+.line-height {line-height: 50px;}
+
+a {color: gray;}
+
+a:hover {background-color: purple;}
+
+a:acticve {background-color: green;}
+
+a:focus {background-color: orange;}
